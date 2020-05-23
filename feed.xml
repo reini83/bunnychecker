@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Bunny Checker</title>
+    <link href="https://reini83.github.io/bunnychecker/feed.xml" rel="self" />
+    <link href="https://reini83.github.io/bunnychecker" />
+    <updated>2020-05-24T00:38:06+02:00</updated>
+    <author>
+        <name>Bunny Checker Team</name>
+    </author>
+    <id>https://reini83.github.io/bunnychecker</id>
+
+    <entry>
+        <title>Erotik </title>
+        <author>
+            <name>Bunny Checker Team</name>
+        </author>
+        <link href="https://reini83.github.io/bunnychecker/erotik/"/>
+        <id>https://reini83.github.io/bunnychecker/erotik/</id>
+
+        <updated>2020-05-23T23:56:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Erotik
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Erotik
+            ]]>
+        </content>
+    </entry>
+</feed>

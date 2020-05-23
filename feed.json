@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bunny Checker",
+    "description": "",
+    "home_page_url": "https://reini83.github.io/bunnychecker",
+    "feed_url": "https://reini83.github.io/bunnychecker/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bunny Checker Team"
+    },
+    "items": [
+        {
+            "id": "https://reini83.github.io/bunnychecker/erotik/",
+            "url": "https://reini83.github.io/bunnychecker/erotik/",
+            "title": "Erotik ",
+            "summary": "Erotik",
+            "content_html": "Erotik",
+            "author": {
+                "name": "Bunny Checker Team"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-23T23:56:30+02:00",
+            "date_modified": "2020-05-23T23:56:30+02:00"
+        }
+    ]
+}
