@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+Sitemap: https://bunnychecker.at/sitemap.xml
