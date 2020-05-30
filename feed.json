@@ -1,27 +1,14 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Bunny Checker",
+    "title": "Bunny Checker Job Escort Vienna ",
     "description": "",
     "home_page_url": "https://bunnychecker.at",
     "feed_url": "https://bunnychecker.at/feed.json",
     "user_comment": "",
+    "icon": "https://bunnychecker.at/media/website/Bunny-Checker-Logo.png",
     "author": {
         "name": "Bunny Checker Team"
     },
     "items": [
-        {
-            "id": "https://bunnychecker.at/erotik/",
-            "url": "https://bunnychecker.at/erotik/",
-            "title": "Erotik ",
-            "summary": "Erotik ",
-            "content_html": "<p>Erotik</p>\n<p> </p>",
-            "author": {
-                "name": "Bunny Checker Team"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-23T23:56:30+02:00",
-            "date_modified": "2020-05-25T00:14:08+02:00"
-        }
     ]
 }

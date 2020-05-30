@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Bunny Checker</title>
+    <title>Bunny Checker Job Escort Vienna </title>
     <link href="https://bunnychecker.at/feed.xml" rel="self" />
     <link href="https://bunnychecker.at" />
-    <updated>2020-05-25T00:14:22+02:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Bunny Checker Team</name>
     </author>
     <id>https://bunnychecker.at</id>
 
-    <entry>
-        <title>Erotik </title>
-        <author>
-            <name>Bunny Checker Team</name>
-        </author>
-        <link href="https://bunnychecker.at/erotik/"/>
-        <id>https://bunnychecker.at/erotik/</id>
-
-        <updated>2020-05-25T00:14:08+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Erotik 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Erotik</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
